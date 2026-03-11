@@ -1,5 +1,3 @@
-# st2195_assignment_3
-
 # ST2195 Assignment 3: Airline Database Construction
 
 This repository contains scripts to construct an SQLite database from the **Data Expo 2009** airline dataset and perform relational queries.
